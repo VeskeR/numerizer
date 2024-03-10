@@ -1,0 +1,6 @@
+E:\Work\C#\Visual Studio projects\Numerizator\Numerizator\bin\Debug\Numerizator.exe.config
+E:\Work\C#\Visual Studio projects\Numerizator\Numerizator\bin\Debug\Numerizator.exe
+E:\Work\C#\Visual Studio projects\Numerizator\Numerizator\bin\Debug\Numerizator.pdb
+E:\Work\C#\Visual Studio projects\Numerizator\Numerizator\obj\Debug\Numerizator.csprojResolveAssemblyReference.cache
+E:\Work\C#\Visual Studio projects\Numerizator\Numerizator\obj\Debug\Numerizator.exe
+E:\Work\C#\Visual Studio projects\Numerizator\Numerizator\obj\Debug\Numerizator.pdb
